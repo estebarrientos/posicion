@@ -1,0 +1,85 @@
+
+.caja1, .caja3, .caja5, .caja7, .caja9, .caja11, .caja13, .caja15, .caja17{
+    height: 80px;
+    width: 101px;
+    background-color: red;
+    display: inline-block;
+}
+
+.caja2, .caja4, .caja6, .caja8, .caja10, .caja12, .caja14, .caja16, .caja18{
+    height: 80px;
+    width: 101px;
+    background-color: blue;
+    display: inline-block;
+}
+.cajon1{
+    height: 200px;
+    width: 50%;
+    background-color: aqua;
+    display: inline-block;
+
+}
+.cajon2{
+    height: 200px;
+    width: 49%;
+    background-color: darkgoldenrod;
+    display: inline-block;
+
+}
+
+.cajon3{
+    height: 200px;
+    width: 14.8%;
+    background-color: white;
+    display: inline-block;
+
+}
+.cajon4{
+    height: 200px;
+    width: 35%;
+    background-color: darkslategray;
+    display: inline-block;
+
+}
+.cajon5{
+    height: 200px;
+    width: 35%;
+    background-color: darkorchid;
+    display: inline-block;
+
+}
+.cajon6{
+    height: 200px;
+    width: 10%;
+    background-color: white;
+    display: inline-block;
+
+}
+
+.interior1{
+    height: 40%;
+    width: 80px;
+    
+}
+
+.interior2{
+    margin-bottom: 0;
+    height: 40%;
+    width: 80px;
+    background-color: yellow;
+    position: relative;
+    top: 40px;
+
+    
+}
+.interior3{
+    margin-bottom: 0;
+    height: 40%;
+    width: 80px;
+    background-color: yellow;
+    position: relative;
+    top: 40px;
+    left: 87.99%;
+
+    
+}
